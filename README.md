@@ -12,7 +12,10 @@
 
 ### Network
 * CAN
+  * [Intro to CAN](https://medium.com/@autonom/what-they-call-vehicle-bus-communication-can-introduction-d69d9b999769)
 * FlexRey
+* LIN
+* ASRB
 
 ### RTOS (Real-Time Operating System)
 * Autosar OS - https://www.autosar.org
@@ -20,3 +23,5 @@
 
 ### Tools
 * Debugging tool - T1 - https://gliwa.com/index.php?page=products_T1&lang=eng
+* Instrument Cluster Simulator - https://github.com/zombieCraig/ICSim
+* Savvy CAN - https://www.savvycan.com/ - https://github.com/collin80/SavvyCAN/
