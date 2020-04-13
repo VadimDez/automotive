@@ -13,8 +13,10 @@
 ### Network
 * CAN
   * [Intro to CAN](https://medium.com/@autonom/what-they-call-vehicle-bus-communication-can-introduction-d69d9b999769)
-* FlexRey
-* LIN
+* FlexRay
+  * [Basics of the FlexRay BUS](https://www.testandmeasurementtips.com/flexray-basics/)
+* LIN (Local Interconnect Network)
+  * https://www.youtube.com/watch?v=1RXo3lOBX0I
 * ASRB
 
 ### RTOS (Real-Time Operating System)
