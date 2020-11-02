@@ -2,10 +2,10 @@
 
 ## Table of contents
 
-- [Steering](https://github.com/VadimDez/automotive#Steering)
-- [Network](https://github.com/VadimDez/automotive##Network)
-- [RTOS (Real-Time Operating System)](https://github.com/VadimDez/automotive#RTOS)
-- [Tools](/https://github.com/VadimDez/automotive#Tools)
+- [Steering](https://github.com/VadimDez/automotive#steering)
+- [Network](https://github.com/VadimDez/automotive#network)
+- [RTOS (Real-Time Operating System)](https://github.com/VadimDez/automotive#rtos-real-time-operating-system)
+- [Tools](https://github.com/VadimDez/automotive#tools)
 
 ### Steering
 * "How to be an automobile software engineer" Series with Steering example:
